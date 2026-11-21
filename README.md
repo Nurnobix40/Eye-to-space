@@ -6,7 +6,7 @@ The animation begins with a detailed eye, gradually zooms through the iris, and 
 
 ## Preview
 
-Add a screenshot of the running application at `assets/preview.png`, then uncomment the image line below:
+![Eye to Space preview](assets/preview.png)
 
 <!-- ![Eye to Space preview](assets/preview.png) -->
 
@@ -74,9 +74,9 @@ python eye_to_space.py
 ```text
 eye-to-space/
 ├── assets/
-│   └── preview.png       # Add your application screenshot here
-├── eye_to_space.py       # Main animation program
-├── requirements.txt     # Python dependencies
+│   └── preview.png       
+├── eye_to_space.py       
+├── requirements.txt    
 ├── .gitignore
 ├── LICENSE
 └── README.md
