@@ -6,7 +6,8 @@ The animation begins with a detailed eye, gradually zooms through the iris, and 
 
 ## Preview
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/680608d0-d311-4e98-8625-66cc833f1d86" />
+
 
 
 <!-- ![Eye to Space preview](assets/preview.png) -->
